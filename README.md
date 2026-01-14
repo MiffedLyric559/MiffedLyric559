@@ -80,3 +80,45 @@ _(Updated from time to time)_
 - “Learning sticks when you struggle a bit.”
 
 ---
+
+<h2>🧩 Things I’ve Worked With & Explored</h2>
+
+### 🔧 Core Tech, Systems & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" />
+</p>
+
+### 🖥️ Operating Systems & Virtualization
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="28" />
+</p>
+
+
+### 🔐 Security, Networking & Infrastructure
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="28" />
+  <img src="https://icons.fortinet.com/icons/Logos/Fortinet-logomark-rgb-red.svg" width="28" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEwakDsItvGBJm2UaKOQiLI_nQJwVFpyG_Cw&s" width="28" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tryhackme.svg" width="28" />
+</p>
+
+
+### 🎮 Game Servers / Engines / Communities
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/unrealengine.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="28" />
+</p>
+
+
+### Game servers & platforms: FiveM, GTA V, Minecraft, Unturned (Community leadership & Development)
+---
